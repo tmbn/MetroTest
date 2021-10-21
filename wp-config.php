@@ -85,6 +85,7 @@ define( 'WP_DEBUG', false );
 
 define('FS_METHOD','direct');
 
+define( 'WP_CACHE', true ); // Added by Hummingbird
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */
